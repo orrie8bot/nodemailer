@@ -1,2 +1,2 @@
 # nodemailer
-practive
+practice
